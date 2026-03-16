@@ -1,6 +1,8 @@
-# Hi there 👋 I'm Marwan Al-Alaghbari
+# Hi there 👋 I'm Marwan Al-Aghbry
 
 🚀 **Senior Flutter Developer | Mobile Architect**
+
+🌐 **Website:** https://marwanag.dev/
 
 I specialize in building scalable and maintainable mobile applications using **Flutter & Dart**.  
 My focus is on clean architecture, high-performance UI, and production-grade mobile systems.
@@ -8,7 +10,7 @@ My focus is on clean architecture, high-performance UI, and production-grade mob
 - 🔭 Currently building **large scale Flutter applications**
 - 🏗 Experienced with **Clean Architecture & Modular apps**
 - ⚙️ State management using **BLoC / Cubit**
-- 🌐 API integration with **Dio**
+- 🌐 API integration using **Dio**
 - 🧭 Navigation using **GoRouter**
 - 🔔 Push notifications with **Firebase & FCM**
 - 📦 Building **multi-module / super-app architectures**
@@ -16,11 +18,12 @@ My focus is on clean architecture, high-performance UI, and production-grade mob
 
 ---
 
-# 🌐 Socials
+# 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-alaghbry-6058b8278)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17041785/marwanag)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007141449690)
+[![Website](https://img.shields.io/badge/Website-marwanag.dev-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marwanag.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/marwan-alaghbry-6058b8278)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/17041785/marwanag)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/profile.php?id=100007141449690)
 
 ---
 
@@ -51,7 +54,7 @@ My focus is on clean architecture, high-performance UI, and production-grade mob
 ✔ Scalable state management (BLoC / Cubit)  
 ✔ Modular & package-driven Flutter apps  
 ✔ Performance-optimized UI  
-✔ Maintainable and testable code
+✔ Maintainable and testable code  
 
 ---
 
