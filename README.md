@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Marwan Al-Aghbry
+# Hi there 👋 I'm Marwan Al-Aghbari
 
 🚀 **Senior Flutter Developer | Mobile Architect**
 
@@ -22,7 +22,6 @@ My focus is on clean architecture, high-performance UI, and production-grade mob
 
 [![Website](https://img.shields.io/badge/Website-marwanag.dev-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marwanag.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/marwan-alaghbry-6058b8278)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/17041785/marwanag)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/profile.php?id=100007141449690)
 
 ---
